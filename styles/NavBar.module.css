@@ -1,0 +1,20 @@
+.navigation {
+    padding: 0px 0px;
+    justify-content: spa;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.navigation li {
+    font-size: 40px;
+}
+
+.navigation li:hover {
+    color: whitesmoke;
+    transition: .2s;
+}
+.active {
+    color: whitesmoke;
+}
